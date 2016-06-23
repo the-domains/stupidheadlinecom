@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stupidheadline.com]]></title>
+        <description><![CDATA[Stupidheadline.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 23 Jun 2016 18:44:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be7c0e4a-3be3-4026-99cb-3f0040665b12.jpg">]]></description>
+            <link>undefined7284e1c1-2ba8-4f45-9d33-79c0b5415578/index.html</link>
+            <guid isPermaLink="false">7284e1c1-2ba8-4f45-9d33-79c0b5415578</guid>
+            <pubDate>Thu, 23 Jun 2016 18:42:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
