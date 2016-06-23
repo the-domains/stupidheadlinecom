@@ -1,4 +1,3 @@
-layout_spectrum: 0.9022275588940829
 typography_spectrum: 0.2891752866562456
 color:
   brandStrength: 0.9709132600110024
@@ -11,8 +10,12 @@ color:
     - '#FF2D00'
     - '#FF8C00'
     - '#04756F'
-name: Stupidheadline.com
+layout_spectrum: 0.9022275588940829
+analytics:
+  facebook: '1534878076823920'
+  google: UA-79791768-1
 author:
   name: petri jarvinen
   email: petri@jarvinen.se
   url: 'http://petrijarvinen.com'
+name: Stupidheadline.com
