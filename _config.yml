@@ -12,3 +12,7 @@ color:
     - '#FF8C00'
     - '#04756F'
 name: Stupidheadline.com
+author:
+  name: petri jarvinen
+  email: petri@jarvinen.se
+  url: 'http://petrijarvinen.com'
